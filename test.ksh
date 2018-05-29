@@ -15,3 +15,9 @@ for k in $(seq 1 12); do
 		*) echo $k,'eme mois de lannee a 30 jours';;
 	esac
 done
+
+
+#autre chose
+
+echo "cest pas rtes concret tout ca"
+
