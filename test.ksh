@@ -19,5 +19,9 @@ done
 
 #autre chose
 
-echo "cest pas rtes concret tout ca"
+echo "cest pas tres concret tout ca"
+
+# greetings
+
+echo "Hello World"
 
